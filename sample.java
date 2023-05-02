@@ -1,4 +1,2 @@
 nee
-ondu
-mugiyada
 mouna
